@@ -8,7 +8,7 @@ Each project demonstrates how SQL can be used to analyze relational databases, a
 
 # 📂 Projects Included
 
-## 👥 Workforce Income Analysis using SQL Server(./Workforce%20Income%20Analysis)
+## 👥 [Workforce Income Analysis using SQL Server](./Workforce%20Income%20Analysis)
 
 A workforce analytics project that analyzes global salary trends, remote work adoption, employment patterns, and workforce distribution using SQL Server.
 
@@ -23,7 +23,7 @@ A workforce analytics project that analyzes global salary trends, remote work ad
 
 ---
 
-## 🛒 Customer Purchase Behavior Analysis using SQL Server(./Customer%20Purchase%20Behavior Analysis)
+## 🛒 [Customer Purchase Behavior Analysis using SQL Server](./Customer%20Purchase%20Behavior%20Analysis)
 
 A customer analytics project that explores purchasing behavior, product performance, and customer loyalty using transactional data from an online food ordering platform.
 
